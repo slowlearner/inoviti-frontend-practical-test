@@ -10,7 +10,7 @@ For the following tasks. The candidate may use any of the following frameworks t
 
 #### 1. Chart Component
 
-create a chart component that enables visualization of a set of data. You may use any chart library of your choice ie: [chartjs](https://)
+create a chart component that enables visualization of a set of data. You may use any chart library of your choice ie: [chartjs](https://www.chartjs.org/)
 
 
 
