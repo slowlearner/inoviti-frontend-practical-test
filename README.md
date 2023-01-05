@@ -15,8 +15,7 @@ For the following, The candidate may use any of the ui frameworks below to accom
 
 create a chart component that enables visualization of a set of data. You may use any chart library of your choice ie: [chartjs](https://www.chartjs.org/)
 
-
-
+![line](images/line.png)
 ##### input:
  a. `series`
 sample value
@@ -32,7 +31,7 @@ possible values: `line`, `bar`
 
 #### 2. Tree List Component
 Create a tree list component. If a node has children, that node should be collapsable and expandable
-
+![tree](images/tree.png)
 ##### input:
 a. `tree`
 Sample values
