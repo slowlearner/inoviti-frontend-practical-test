@@ -6,7 +6,10 @@
 Test candidates expertise in building reusable ui components.
 
 ### TASKS
-For the following tasks. The candidate may use any of the following frameworks to accomplish the vuejs, angular, reactjs
+For the following, The candidate may use any of the ui frameworks below to accomplish tasks.
+1. vuejs
+2. angular
+3. reactjs
 
 #### 1. Chart Component
 
