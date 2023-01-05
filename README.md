@@ -31,7 +31,7 @@ possible values: `line`, `bar`
 
 
 #### 2. Tree List Component
-Create a tree list component where each node is expanded and collapsed.
+Create a tree list component. If a node has children, that node should be collapsable and expandable
 
 ##### input:
 a. `tree`
