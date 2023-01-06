@@ -50,13 +50,18 @@ tree = [
         },
         {
             label: "node3"
+            children: [
+                {
+                    label: "node3-child"
+                }
+            ]
         }
     ]
 ]
 ```
 ### ADDITIONAL TASKS
 1. Create a video explainer showing the components in action.
-2. Optional, use storybook
+2. Optional, for better component presentation, you may integrate the component with [storybook]([https://](https://storybook.js.org/))
 
 
 
